@@ -1,3 +1,4 @@
+#NESSE MODELO, EH IMPOSSIVEL VENCER O COMPUTADOR
 def main():
     print("Bem-vindo ao jogo do NIM! Escolha:\n")
     opcao = int(input("1 - para jogar apenas uma partida\n2 - para jogar um campeonato\n"))
